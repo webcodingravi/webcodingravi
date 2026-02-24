@@ -25,7 +25,8 @@ Email Me 👉 ✉️ **rkdesigner76@gmail.com** For Collaboration/Project or Any
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=@webcodingravi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=webcodingravi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 !-- Snake Game Repo View -->
 <div align="center">
