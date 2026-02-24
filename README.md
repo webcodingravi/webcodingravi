@@ -1,9 +1,8 @@
+**👉 Always learning & improving **
+
 # 💫 Hi 👋, I'm Ravi Kumar
-** Web Devlopment || Laravel || MERN | NextJS**
 
-Email Me 👉 ✉️ **rkdesigner76@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-## 👉 About Me:
+## 👉 About Me 😊😊:
 
 Hi, I’m a passionate Website Developer who enjoys building modern, scalable, and user-focused web applications. I believe good development is not just about writing code, but about solving real problems in a clean and efficient way.
 
