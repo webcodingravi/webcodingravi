@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 **👉 Always learning & improving **
 
 # 💫 Hi 👋, I'm Ravi Kumar
