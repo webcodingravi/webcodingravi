@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](ChatGPT Image Apr 21, 2026, 09_38_27 PM.png)
 
 **👉 Always learning & improving **
 
